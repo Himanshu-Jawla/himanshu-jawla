@@ -1,6 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Himanshu Jawla 
- 
-<img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="150px"> 
 
  Frontend Developer | BCA Student @ IIMT | Passionate about Clean Code & UI Excellence  
  Crafting fast, responsive web apps using React, Next.js, Tailwind CSS  
