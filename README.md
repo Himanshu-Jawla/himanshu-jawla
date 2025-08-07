@@ -1,4 +1,4 @@
-# 👋 https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gifHi, I'm Himanshu Jawla 
+# 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Himanshu Jawla 
 
 
  Frontend Developer | BCA Student @ IIMT | Passionate about Clean Code & UI Excellence  
