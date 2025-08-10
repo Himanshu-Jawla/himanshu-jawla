@@ -45,8 +45,6 @@
 
 ##  Latest Blog Posts
 
- BLOG-POST-LIST:START 
-
 - <a href="https://https://shorturl.at/59GU0">Why Do Government Websites Struggle With Design?</a>
 - Coming Soon: How I Built My Portfolio in React
 - Coming Soon: Learning Next.js as a Beginner
