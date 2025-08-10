@@ -47,7 +47,7 @@
 
  BLOG-POST-LIST:START 
 
-- Why government website suck at design?
+- <a href="https://https://shorturl.at/59GU0">Why Do Government Websites Struggle With Design?</a>
 - Coming Soon: How I Built My Portfolio in React
 - Coming Soon: Learning Next.js as a Beginner
 <!-- BLOG-POST-LIST:END -->
@@ -56,7 +56,7 @@
 
 ##  Connect with Me
 
-🌐 Portfolio: [himanshujawla.dev](https://himanshujawla.dev)  
+🌐 Portfolio: [himanshujawla.dev](https://hashnode.com/@Himanshu-Jawla)  
 📩 Email: [himanshujawla210@gmail.com](mailto:himanshujawla230@gmail.com)  
 📱 LinkedIn: [linkedin.com/in/himanshu-jawla-b0b4a5315](www.linkedin.com/in/himanshu-jawla-b0b4a5315)
 
