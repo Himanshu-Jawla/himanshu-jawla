@@ -55,7 +55,7 @@
 ##  Connect with Me
 
 🌐 Portfolio: [himanshujawla.dev](https://hashnode.com/@Himanshu-Jawla)  
-📩 Email: [himanshujawla210@gmail.com](mailto:himanshujawla230@gmail.com)  
+📩 Email: [himanshujawla230@gmail.com](mailto:himanshujawla230@gmail.com)  
 📱 LinkedIn: [linkedin.com/in/himanshu-jawla-b0b4a5315](www.linkedin.com/in/himanshu-jawla-b0b4a5315)
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Frontend%20Internships-green?style=flat-square)
