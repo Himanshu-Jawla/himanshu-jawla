@@ -45,8 +45,9 @@
 
 ##  Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace with actual blog sync from Hashnode/Dev.to when live -->
+ BLOG-POST-LIST:START 
+
+- Why government website suck at design?
 - Coming Soon: How I Built My Portfolio in React
 - Coming Soon: Learning Next.js as a Beginner
 <!-- BLOG-POST-LIST:END -->
@@ -56,7 +57,7 @@
 ##  Connect with Me
 
 🌐 Portfolio: [himanshujawla.dev](https://himanshujawla.dev)  
-📩 Email: [himanshujawla210@gmail.com](mailto:himanshujawla210@gmail.com)  
+📩 Email: [himanshujawla210@gmail.com](mailto:himanshujawla230@gmail.com)  
 📱 LinkedIn: [linkedin.com/in/himanshu-jawla-b0b4a5315](www.linkedin.com/in/himanshu-jawla-b0b4a5315)
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Frontend%20Internships-green?style=flat-square)
