@@ -54,7 +54,7 @@
 
 ##  Connect with Me
 
-🌐 Portfolio: [himanshujawla.dev](https://hashnode.com/@Himanshu-Jawla)  
+🌐 Portfolio: [Himanshu Jawla Portfolio](https://himanshu-jawla.vercel.app/)  
 📩 Email: [himanshujawla230@gmail.com](mailto:himanshujawla230@gmail.com)  
 📱 LinkedIn: [linkedin.com/in/himanshu-jawla-b0b4a5315](www.linkedin.com/in/himanshu-jawla-b0b4a5315)
 
