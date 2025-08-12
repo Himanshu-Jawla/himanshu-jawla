@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Himanshu Jawla 
 
- Frontend Developer | BCA Student @ IIMT | Passionate about Clean Code & UI Excellence  
- Crafting fast, responsive web apps using React, Next.js, Tailwind CSS  
+ Frontend Developer | BCA Student @ IIMT | Currently Learning Backend
+ Crafting fast, responsive web apps using React, Next.js, TailwindCSS
  Focused on building real-world projects + mastering DSA for dev interviews
 
 
 ##  Current Focus
 
--  Learning advanced **React.js**, **Next.js**, and **Tailwind CSS**
+-  Learning advanced **React.js**, **Next.js**, and **MangoDB**
 -  Exploring full-stack dev with **Node.js**, **Express**, and **MongoDB**
 -  Writing dev blogs to share what I learn
 -  Open to **Frontend Internships (Remote/On-Site)**
