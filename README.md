@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Himanshu Jawla 
 
- Frontend Developer |  Currently Learning Backend     <br>                                                                                                                                        Crafting fast, responsive web apps using React, Next.js, TailwindCSS <br>
+ Frontend Developer | BCA Student @ IIMT | Currently Learning Backend     <br>                                                                                                                                        Crafting fast, responsive web apps using React, Next.js, TailwindCSS <br>
  Focused on building real-world projects + mastering DSA for interviews
 
 
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
-<!---
+
 
 ##  GitHub Stats
 
@@ -39,7 +39,7 @@
 ##  GitHub Trophy Case
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshujawla&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 
 
 ##  Latest Blog Posts
