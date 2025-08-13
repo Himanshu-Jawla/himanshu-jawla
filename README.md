@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Himanshu Jawla 
 
- Frontend Developer | BCA Student @ IIMT | Currently Learning Backend     <br>                                                                                                                                        Crafting fast, responsive web apps using React, Next.js, TailwindCSS <br>
+ Frontend Developer |  Currently Learning Backend     <br>                                                                                                                                        Crafting fast, responsive web apps using React, Next.js, TailwindCSS <br>
  Focused on building real-world projects + mastering DSA for interviews
 
 
