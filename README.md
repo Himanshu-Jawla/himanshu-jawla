@@ -46,7 +46,7 @@
 
 - <a href="https://https://shorturl.at/59GU0">Why Do Government Websites Struggle With Design?</a>
 - <a href="https://why-to-choose-typescript.hashnode.dev/">Why TypeScript is Essential for Today's Frontend Developers</a>
-- Coming Soon: Learning Next.js as a Beginner
+- Coming Soon: Learning Next.js as a Beginner.
 <!-- BLOG-POST-LIST:END -->
 
 
